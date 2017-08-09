@@ -12,7 +12,7 @@ Naima's favorite food
 <ul>
 <li>
 pizza
-rice
+<li>rice</li>
 </li>
 </ul>
 
