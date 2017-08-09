@@ -16,9 +16,17 @@ pizza
 </li>
 </ul>
 
+
 </h2>
 
+<h3>
+favorite artist
+<ul>
+<li> pnb rock</li>
+<img src="http://djbooth.net/artists/pnb-rock">
 
+</ul>
+</h3>
 
 
 
