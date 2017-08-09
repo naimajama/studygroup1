@@ -11,7 +11,8 @@ Diary
 Naima's favorite food
 <ul>
 <li>
-pizza,rice
+pizza
+rice
 </li>
 </ul>
 
