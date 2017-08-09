@@ -8,7 +8,13 @@
 Diary
 </h1>
 <h2>
-My name is Naima
+Naima's favorite food
+<ul>
+<li>
+pizza
+</li>
+</ul>
+
 </h2>
 
 
