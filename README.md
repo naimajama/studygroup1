@@ -23,7 +23,7 @@ pizza
 favorite artist
 <ul>
 <li> pnb rock</li>
-<img src="http://djbooth.net/artists/pnb-rock">
+<img src="http://static.djbooth.net/pics-artist/pnb-rock-2016-rec.jpg">
 
 </ul>
 </h3>
