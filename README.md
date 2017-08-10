@@ -24,7 +24,7 @@ pizza
 favorite artist
 <ul>
 <li> pnb rock</li>
-<img src="http://static.djbooth.net/pics-artist/pnb-rock-2016-rec.jpg width="104" height="142">
+<img src="http://static.djbooth.net/pics-artist/pnb-rock-2016-rec.jpg" width="104" height="142">
 <li> Bryson Tiller</li>
 <img src="https://s-media-cache-ak0.pinimg.com/736x/95/34/80/953480e239a3b653ee99fdc7ba9e23c8--bryson-tiller-louisville.jpg">
 </ul>
