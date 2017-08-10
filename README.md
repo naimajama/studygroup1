@@ -1,7 +1,8 @@
 # studygroup1
 <html>
 <head>
-<title> book</title
+<title> book</title>
+</head>
 <body>
 
 <h1>
